@@ -2,11 +2,5 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...you can mail me on laxmankethavath5@gmail.com  💞️......
-                IITD maii id     cs5180408@iitd.ac.in
-
-<!---
-Laxman824/Laxman824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-I have created a new repository on Github recently ,looking forward to explore 👀
---->
+- 📫 How to reach me ...you can mail me on laxmankethavath5@gmail.com  💞️......IITD maii id     cs5180408@iitd.ac.in
+-    Personal Webpage : https://laxman824.github.io/cs5180408_Webpage/
