@@ -1,14 +1,12 @@
 ### Hi there 👋
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
 
-I'm Laxman!
-- 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering)   
+I'm Laxman !
+- 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) ,  At present, living in New Delhi.
 __Indian Institute of Technology, Delhi__
-
-I'm Laxman , pursuing 4th year Dual(B.Tech + M.Tech) in Computer Science and Engineering,  At present, living in New Delhi.  
-
+-Enthusiastic to learn new technologies and explore more to upskill my knowledge.
 - Check out my [webpage](https://laxman824.github.io/cs5180408_Webpage/) to know more.
-<!-- <h2>📫 How to reach me:</h2> -->
+ <h2>📫 How to reach me:</h2> 
 
 <a href="mailto:laxmankethavath5@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/k-laxman-44913a156/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
