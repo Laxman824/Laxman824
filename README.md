@@ -2,9 +2,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
 
 I'm Laxman !
-- 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) ,  At present, living in New Delhi.
-__Indian Institute of Technology, Delhi__
--Enthusiastic to learn new technologies and explore more to upskill my knowledge.
+- 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
+- Enthusiastic to learn new technologies and explore more to upskill my knowledge.
 - Check out my [webpage](https://laxman824.github.io/cs5180408_Webpage/) to know more.
  <h2>📫 How to reach me:</h2> 
 
