@@ -1,9 +1,9 @@
-<h1 >Hi  there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
-<p >
+<!-- <p >
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20Algorithms%20|%20OS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+</p> -->
 
 I'm Laxman !
 - 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
@@ -21,6 +21,8 @@ I'm Laxman !
 </p>
 <br/>
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 ###  Technical skills
 
 ###  Programming Languages
@@ -31,7 +33,7 @@ I'm Laxman !
      <a href="https://github.com/Laxman824"><img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
      <a href="https://github.com/Laxman824"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
  
- 
+
  
  
 <!-- ### Frameworks and Libraries
@@ -86,5 +88,8 @@ I'm Laxman !
 <a href="https://www.linkedin.com/in/k-laxman-44913a156/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/laxman.kethavath.96/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://twitter.com/laxmankethavat2">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+
 
 <!--**Laxman824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
