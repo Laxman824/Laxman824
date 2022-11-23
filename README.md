@@ -17,11 +17,12 @@ I'm Laxman !
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Laxman824&show_icons=true" alt="Laxman824">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Laxman824" alt="Laxman824">
 	</a>
+	
+ <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/code.gif?raw=true" width="500" height="320" />
 	<br/>
 </p>
 <br/>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 ###  Technical skills
 
