@@ -26,7 +26,7 @@ I'm Laxman !
 <br/>
 
  
-###  Technical skills
+###  Technical skills:
 
 ###  Programming Languages
 
