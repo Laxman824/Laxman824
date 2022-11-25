@@ -26,9 +26,9 @@ I'm Laxman !
 <br/>
 
  
-###  Technical skills:
+###  Technical skills: 
 
-###  Programming Languages
+###  Programming Languages<img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="50">
 
 <p>
  <a href="https://github.com/Laxman824"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
