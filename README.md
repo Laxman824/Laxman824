@@ -10,7 +10,7 @@
 I'm Laxman !
 - 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
 - Enthusiastic to learn new technologies and exploring more to upskill my knowledge.
-- Check out my [webpage](https://laxman824.github.io/cs5180408_Webpage/) to know more.
+- Check out my [webpage](https://laxman824.github.io/cs5180408_Webpage/) to know more about me .
 
 <!-- <summary><b>Lamxan's Git Stats</b></summary> -->
 <br/>
