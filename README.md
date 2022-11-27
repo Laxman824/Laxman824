@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://media.giphy.com/media/AKN0AeXRLbTNPNUl03/giphy.gif)](https://Laxman824.io) -->
 
-<h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="18%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+<h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="18%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"></h1>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
 <!-- <p >
@@ -27,7 +27,7 @@ I'm Laxman !
 
 
  
-###  Technical skills: 
+###  Technical skills: <img src="https://media.giphy.com/media/vIMgW7Tkj8pz1XLh31/giphy.gif" width="40">
 
 ###  Programming Languages <img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="30">
 
