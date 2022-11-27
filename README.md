@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://media.giphy.com/media/AKN0AeXRLbTNPNUl03/giphy.gif)](https://Laxman824.io) -->
 
-<h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="18%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
 <!-- <p >
@@ -25,10 +25,11 @@ I'm Laxman !
 </p>
 <br/>
 
+
  
 ###  Technical skills: 
 
-###  Programming Languages<img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="50">
+###  Programming Languages <img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="30">
 
 <p>
  <a href="https://github.com/Laxman824"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -58,7 +59,7 @@ I'm Laxman !
  
 </p> -->
 
-### Software and Tools
+### Software and Tools <img src="https://media.giphy.com/media/EVrqcR2j1mk1dEX9Qr/giphy.gif" width="3%">
 
 <p>
   <a href="https://github.com/Laxman824"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -82,7 +83,9 @@ I'm Laxman !
 
 </p>
 <br/>
-<h2>📫 How to reach me:</h2> 
+<h2><img src="https://media.giphy.com/media/S8GDAHL3nmSGKQUTn3/giphy.gif" width="5%"> How to reach me:</h2> 
+
+
 
 <a href="mailto:laxmankethavath5@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/k-laxman-44913a156/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
