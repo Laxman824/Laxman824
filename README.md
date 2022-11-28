@@ -3,9 +3,9 @@
 <h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"></h1>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
-<!-- <p >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20Algorithms%20|%20OS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p> -->
+<p >
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Quick%20Self%20Learner%20|%20Curious%20;Always%20learning%20new%20things&width=500&height=50"></a>
+</p>
 
 I'm Laxman !
 - 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
