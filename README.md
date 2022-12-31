@@ -4,7 +4,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
 <p >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Quick%20Self%20Learner%20|%20Curious%20;Always%20learning%20new%20things&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Quick%20Self%20Learner%20|%20Curious%20;Always%20learning%20new%20Tech's&width=500&height=50"></a>
 </p>
 
 I'm Laxman !
