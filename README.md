@@ -1,4 +1,9 @@
-<!-- [![MasterHead](https://media.giphy.com/media/AKN0AeXRLbTNPNUl03/giphy.gifluuu) -->
+<!-- [![MasterHead](https://media.giphy.com/media/AKN0AeXRLbTNPNUl03/giphy.gifluuu) 
+stickers 
+<img src="https://media.giphy.com/media/vIMgW7Tkj8pz1XLh31/giphy.gif" width="20">   
+ <img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="30">
+
+ -->
 
 <h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"></h1>
 
@@ -27,10 +32,9 @@ I'm Laxman !
 
 
  
-###  Technical skills: <img src="https://media.giphy.com/media/vIMgW7Tkj8pz1XLh31/giphy.gif" width="20">
+###  Technical skills: 
 
-###  Programming Languages <img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="30">
-
+###  Programming Languages
 <p>
  <a href="https://github.com/Laxman824"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/Laxman824"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
