@@ -21,7 +21,7 @@ I'm Laxman !
 <br/>
 <p align="center">
 	<a href="https://github.com/Laxman824">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Laxman824&show_icons=true" alt="Laxman824">
+	<img width="49.5%" src=https://github-readme-stats.vercel.app/api?username=Laxman824&theme=buefy&show_icons=true">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Laxman824" alt="Laxman824">
 	</a>
 	
@@ -80,7 +80,8 @@ I'm Laxman !
 
 <p 
 	<a href="https://github.com/Laxman824">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman824&langs_count=8&layout=compact" alt="Laxman824">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman824&layout=compact">
+<!--	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman824&langs_count=8&layout=compact" alt="Laxman824"> --
 	</a>
 	<br/>
 <br/>
