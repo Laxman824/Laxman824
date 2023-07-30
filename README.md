@@ -15,7 +15,7 @@ stickers
 I'm Laxman !
 - 4th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
 - Enthusiastic to learn new technologies and exploring more to upskill my knowledge.
-- Check out my [webpage](https://laxman824.github.io/) to know more about me.
+# Check out my [webpage](https://laxman824.github.io/) to know more about me.
  <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/lucky.gif"  />
 <!-- <summary><b>Lamxan's Git Stats</b></summary> -->
 <br/>
