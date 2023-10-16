@@ -4,6 +4,9 @@ stickers
  <img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="30">
 
  -->
+ <p align="center">
+  <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/GIF.gif" alt="Hi, I'm Laxman 👋 I'm a 🚀 Student at  IITD 🤗 I ❤️ Happy Hardcore ❤️">
+</p>
 
 <h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"></h1>
 
