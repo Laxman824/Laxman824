@@ -5,7 +5,7 @@ stickers
 
  -->
  <p align="center">
-  <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/GIF.gif" alt="Hi, I'm Laxman 👋 I'm a 🚀 Student at  IITD 🤗 I ❤️ Happy Hardcore ❤️"height="150">
+  <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/GIF.gif" alt="Hi, I'm Laxman 👋 I'm a 🚀 Student at  IITD 🤗 I ❤️ Happy Hardcore ❤️"height="150""width =250">
 </p>
 <!--
 How to make this gif ?
