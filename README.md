@@ -129,7 +129,7 @@ I'm Laxman !
 <a href="https://www.facebook.com/laxman.kethavath.96/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://twitter.com/laxmankethavat2">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love connecting with different people</b> So, if you want to say <b>hi, I'll be happy to meet you!</b> :)</em> <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/thank.gif" width="10%" style=float:right> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love connecting with different people</b> want to say <b>hi, I'll be happy to meet you!</b></em> <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/thank.gif" width="10%" style=float:right> 
 <!-- <img src="https://media.giphy.com/media/OT3NrGYyRu523JG0G8/giphy.gif" width="60"> -->
 <!-- 																			<h5> <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/thank.gif" width="20%"></h5>	  				 -->
 
