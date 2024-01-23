@@ -95,24 +95,30 @@ I'm Laxman !
 </p>
 </br>
 
-<summary><b>Top Languages in Git</b></summary>
-<br/>
+<details>
+  <summary><b>Top Languages in Git</b></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/Laxman824">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman824&layout=compact">
+    </a>
+  </p>
+</details>
 
-<p 
-	<a href="https://github.com/Laxman824">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman824&layout=compact">
-<!--	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman824&langs_count=8&layout=compact" alt="Laxman824"> --
-	</a>
-	<br/>
-<br/>
-  <tr>
-        <td  align="right">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+<details>
+  <summary><b>Calendar Section</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <td align="right">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></details>
         <img width="900" height="1" alt="">
       </td>
-</p>
-<br/>
+    </tr>
+  </table>
+</details>
+
 
 <h2><img src="https://media.giphy.com/media/S8GDAHL3nmSGKQUTn3/giphy.gif" width="3%"> How to reach me:</h2> 
 
@@ -129,7 +135,7 @@ I'm Laxman !
 
 
 <!--**Laxman824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<!--
 <td style="text-align: right;">
   <details open>
     <summary>Full year calendar</summary>
@@ -140,7 +146,7 @@ I'm Laxman !
     <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="">
   </details>
   <img width="900" height="1" alt="">
-</td>
+</td>  -->
 
 
 
