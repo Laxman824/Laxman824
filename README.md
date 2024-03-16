@@ -130,8 +130,8 @@ I'm Laxman !
 <a href="https://twitter.com/laxmankethavat2">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 
-
-<img src="https://raw.githubusercontent.com/laxman824/laxman824/output/snake.svg" alt="Snake animation" />
+<!-- 	
+<img src="https://raw.githubusercontent.com/laxman824/laxman824/output/snake.svg" alt="Snake animation" />  -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love connecting with different people</b> want to say <b>hi, I'll be happy to meet you!</b></em> <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/thank.gif" width="10%" style=float:right> 
 <!-- <img src="https://media.giphy.com/media/OT3NrGYyRu523JG0G8/giphy.gif" width="60"> -->
