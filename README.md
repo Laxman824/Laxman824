@@ -122,7 +122,7 @@ Enthusiastic to learn new technologies and exploring more to upskill my knowledg
 
 
 <h2><img src="https://media.giphy.com/media/S8GDAHL3nmSGKQUTn3/giphy.gif" width="3%"> How to reach me:</h2> 
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100">
+<!-- <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100"> -->
 
 
 
