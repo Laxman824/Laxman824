@@ -35,7 +35,7 @@ stickers
 I'm 𝐋𝐚𝐱𝐦𝐚𝐧 !
 
 🌟Dual (B.Tech + M.Tech in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠) Degree Student at 𝐈𝐧𝐝𝐢𝐚𝐧 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐃𝐞𝐥𝐡𝐢 (𝐈𝐈𝐓𝐃), At present, living in 𝐈𝐈𝐓 𝐃𝐞𝐥𝐡𝐢.
-Enthusiastic to learn new technologies and exploring more to upskill my knowledge.
+Enthusiastic to learn new technologies and exploring more to upskill my knowledge along the way in Future.
 # [Check out my webpage](https://laxman824.github.io/) to know more about me.
  <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/lucky.gif"  />
 <!-- <summary><b>Lamxan's Git Stats</b></summary> -->
