@@ -1,9 +1,6 @@
-<!-- [![MasterHead](https://media.giphy.com/media/AKN0AeXRLbTNPNUl03/giphy.gifluuu) 
-stickers 
-<img src="https://media.giphy.com/media/vIMgW7Tkj8pz1XLh31/giphy.gif" width="20">   
- <img src="https://media.giphy.com/media/CCxuhVBrD8SBGxPoBg/giphy.gif" width="30">
+<!-- <div align="center"> -->
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=79&section=header&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
- -->
  <p align="center">
   <img src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/GIF.gif" alt="Hi, I'm Laxman 👋 I'm a 🚀 Student at  IITD 🤗 I ❤️ Happy Hardcore ❤️"height="150""width =250">
 </p>
@@ -25,7 +22,7 @@ stickers
 
  -->
 
-<h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"></h1>
+<!-- <h1 >   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"></h1> -->
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Laxman824.Laxman824)](https://github.com/Laxman824) [![GitHub followers](https://img.shields.io/github/followers/Laxman824.svg?style=social&label=Follow)](https://github.com/Laxman824?tab=followers)
 <p >
@@ -34,17 +31,50 @@ stickers
 
 I'm 𝐋𝐚𝐱𝐦𝐚𝐧 !
 
-🌟Dual (B.Tech + M.Tech in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠) Degree Student at 𝐈𝐧𝐝𝐢𝐚𝐧 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐃𝐞𝐥𝐡𝐢 (𝐈𝐈𝐓𝐃), At present, living in 𝐈𝐈𝐓 𝐃𝐞𝐥𝐡𝐢.
-Enthusiastic to learn new technologies and exploring more to upskill my knowledge along the way in Future.
+
+### 👨‍💻 About Me
+
+```javascript
+const laxman = {
+    location: "IIT Delhi, India 🇮🇳",
+    education: "Dual Degree (B.Tech + M.Tech)",
+    department: "Computer Science & Engineering",
+    currentFocus: "Full Stack Development & AI/ML",
+    interests: ["Problem Solving", "Tech Innovation", "Open Source"],
+    lifePhilosophy: "Code. Learn. Repeat. 🔁",
+    funFact: "I debug with console.log() and I'm not ashamed! 😎"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🎯 Current Goals & Learning Path
+
+```mermaid
+graph LR
+    A[🎓 IIT Delhi Student] --> B[💻 Full Stack Developer]
+    B --> C[🤖 AI/ML Engineer]
+    C --> D[🚀 Tech Innovator]
+    D --> E[🌟 Open Source Contributor]
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#f9ca24
+    style E fill:#6c5ce7
+```
+
+
 # [Check out my webpage](https://laxman824.github.io/) to know more about me.
  <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/lucky.gif"  />
 <!-- <summary><b>Lamxan's Git Stats</b></summary> -->
 <br/>
 <p align="center">
-	<a href="https://github.com/Laxman824">
+	<!-- <a href="https://github.com/Laxman824">
 	<img width="49.5%" src=https://github-readme-stats.vercel.app/api?username=Laxman824&theme=buefy&show_icons=true">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Laxman824" alt="Laxman824">
-	</a>
+	</a> -->
 	
  <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/code.gif?raw=true" width="500" height="320" />
 	<br/>
@@ -159,3 +189,6 @@ Enthusiastic to learn new technologies and exploring more to upskill my knowledg
 
 <!-- [Metrics](https://metrics.lecoq.io/Isometric commit calendar?template=classic&config.timezone=Asia%2FCalcutta) -->
  
+### 💖 Thanks for Visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
