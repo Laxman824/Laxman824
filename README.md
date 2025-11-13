@@ -30,10 +30,7 @@ stickers
 </p>
 
 I'm 𝐋𝐚𝐱𝐦𝐚𝐧 !
-
-
 ### 👨‍💻 About Me
-
 ```javascript
 const laxman = {
     location: "IIT Delhi, India 🇮🇳",
@@ -42,7 +39,6 @@ const laxman = {
     currentFocus: "Full Stack Development & AI/ML",
 };
 ```
-
 <br clear="right"/>
 
 ---
@@ -58,11 +54,12 @@ graph LR
     B --> C[🤖 AI/ML Engineer]
     C --> D[🚀 Tech Innovator]
     D --> E[🌟 Open Source Contributor]
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#f9ca24
-    style E fill:#6c5ce7
+    style A fill:#FF6B9D,stroke:#FF1744,stroke-width:3px,color:#fff
+    style B fill:#00BFA5,stroke:#00897B,stroke-width:3px,color:#fff
+    style C fill:#448AFF,stroke:#2962FF,stroke-width:3px,color:#fff
+    style D fill:#FFD740,stroke:#FFC400,stroke-width:3px,color:#000
+    style E fill:#7C4DFF,stroke:#651FFF,stroke-width:3px,color:#fff
+
 ```
 
 
