@@ -40,16 +40,16 @@ const laxman = {
     education: "Dual Degree (B.Tech + M.Tech)",
     department: "Computer Science & Engineering",
     currentFocus: "Full Stack Development & AI/ML",
-    interests: ["Problem Solving", "Tech Innovation", "Open Source"],
-    lifePhilosophy: "Code. Learn. Repeat. 🔁",
-    funFact: "I debug with console.log() and I'm not ashamed! 😎"
 };
 ```
 
 <br clear="right"/>
 
 ---
-
+# [Check out my webpage](https://laxman824.github.io/) to know more about me.
+ <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/lucky.gif"  />
+<!-- <summary><b>Lamxan's Git Stats</b></summary> -->
+<br/>
 ## 🎯 Current Goals & Learning Path
 
 ```mermaid
@@ -66,10 +66,7 @@ graph LR
 ```
 
 
-# [Check out my webpage](https://laxman824.github.io/) to know more about me.
- <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/lucky.gif"  />
-<!-- <summary><b>Lamxan's Git Stats</b></summary> -->
-<br/>
+
 <p align="center">
 	<!-- <a href="https://github.com/Laxman824">
 	<img width="49.5%" src=https://github-readme-stats.vercel.app/api?username=Laxman824&theme=buefy&show_icons=true">
