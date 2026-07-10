@@ -40,6 +40,38 @@ const laxman = {
 };
 ```
 <br clear="right"/>
+Professional Profile
+
+I am a ** AI Engineer** specializing in the intersection of LLM orchestration and enterprise automation. My focus is on moving beyond simple prompts to building **autonomous agentic workflows** that can plan, reason, and execute complex tasks in production environments.
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎓 Education</strong><br>
+      Integrated Dual Degree (B.Tech + M.Tech)<br>
+      Computer Science & Engineering, <b>IIT Delhi</b>
+    </td>
+    <td width="50%" valign="top">
+      <strong>💼 Current Role</strong><br>
+    	AI Engineer @ <b>CAMS</b><br>
+      Focus: Enterprise AI & Intelligent Automation
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🧠 AI Core Expertise
+
+| Area | Technologies & Methodologies |
+| :--- | :--- |
+| **Agentic AI** | LangGraph, CrewAI, Multi-Agent Systems, Planning & Reasoning, Tool Use |
+| **LLM Engineering** | RAG, Prompt Engineering, Function Calling, Structured Outputs, AI Eval |
+| **Frameworks** | LangChain, MCP (Model Context Protocol), Hugging Face, Transformers |
+| **AI Infrastructure** | AWS Bedrock, OpenAI, Claude, Gemini, Llama 3 |
+| **Vector Databases** | Pinecone, ChromaDB, FAISS, PostgreSQL (pgvector) |
+
+<br/>
 
 ---
 # [Check out my webpage](https://laxman824.github.io/) to know more about me.
