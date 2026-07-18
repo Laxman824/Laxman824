@@ -24,7 +24,7 @@
 
 ### ⚡ What I Build
 
-- **Production GenAI & RAG** — enterprise retrieval, ranking, grounding and document intelligence.
+- **Production GenAI & RAG** — Workflow automation and actionables picking,enterprise retrieval, ranking, grounding and document intelligence.
 - **Agentic AI** — multi-agent workflows and orchestration with modern LLM stacks.
 - **Google Cloud AI** — Vertex AI, Gemini, Cloud Run, BigQuery, Pub/Sub and Firestore.
 - **AI-backed products** — production Python backends and modern web experiences.
@@ -39,19 +39,6 @@
 
 <br/>
 
-## 🚀 Selected Work
-
-| Project | Impact |
-|:---|:---|
-| **CamsLens** | Enterprise GenAI platform processing **80K+ documents monthly** with production retrieval and Google Cloud AI. |
-| **SEBI Debarred PAN Extraction** | Cloud-native regulatory document pipeline for structured PAN extraction. |
-| **Autonomous Multi-Agent Banking System** | Agent orchestration using modern LLM and multi-agent frameworks. |
-| **RoomFlow** | AI-enabled workspace and booking workflows. |
-
-## 🧰 Stack
-
-`Python` `PyTorch` `TensorFlow` `Vertex AI` `Gemini` `RAG` `LangChain` `LangGraph` `CrewAI` `Cloud Run` `BigQuery` `Pub/Sub` `Firestore` `FastAPI` `React` `Next.js`
-
 ## 🎓 Education
 
 **Indian Institute of Technology (IIT) Delhi**<br/>
@@ -60,6 +47,20 @@ Integrated Dual Degree (B.Tech + M.Tech) — Computer Science & Engineering
 <br/>
 
 <div align="center">
+
+## 🚀 Selected Work
+
+| Project | Impact |
+|:---|:---|
+| [**CamsLens**](https://laxman824.github.io/projects) | Enterprise GenAI platform processing **80K+ documents monthly** with production retrieval and Google Cloud AI. |
+| [**SEBI Debarred PAN Extraction**](https://laxman824.github.io/projects) | Cloud-native regulatory document pipeline for structured PAN extraction. |
+| [**Autonomous Multi-Agent Banking System**](https://laxman824.github.io/projects) | Agent orchestration using modern LLM and multi-agent frameworks. |
+| [**RoomFlow**](https://laxman824.github.io/projects) | AI-enabled workspace and booking workflows. |
+
+## 🧰 Stack
+
+`Python` `PyTorch` `TensorFlow` `Vertex AI` `Gemini` `RAG` `LangChain` `LangGraph` `CrewAI` `Cloud Run` `BigQuery` `Pub/Sub` `Firestore` `FastAPI` `React` `Next.js`
+
 
 ## 📊 GitHub Stats
 
