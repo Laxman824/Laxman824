@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./laxman-banner.svg?v=1" alt="K Laxman — Senior AI Engineer" width="100%"/>
+<img src="./laxman-banner.svg?v=2" alt="K Laxman — Senior AI Engineer" width="100%"/>
 
 </div>
 
