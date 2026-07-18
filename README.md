@@ -54,7 +54,7 @@
 
 ## 🎓 Education
 
-**Indian Institute of Technology (IIT) Delhi**
+**Indian Institute of Technology (IIT) Delhi**<br/>
 Integrated Dual Degree (B.Tech + M.Tech) — Computer Science & Engineering
 
 <br/>
@@ -62,11 +62,6 @@ Integrated Dual Degree (B.Tech + M.Tech) — Computer Science & Engineering
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=laxman824&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman824&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1" alt="Top languages" height="180"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=laxman824&theme=tokyonight&hide_border=true&background=0d1117&ring=67e8f9&fire=f472b6&currStreakLabel=a78bfa" alt="Contribution streak"/>
 
