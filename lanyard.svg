@@ -11,7 +11,15 @@
 </defs>
 <rect width="650" height="920" fill="#070b14"/>
 <g transform-origin="325 0">
- <animateTransform attributeName="transform" type="rotate" values="-2.5 325 0;2.5 325 0;-2.5 325 0" dur="5.5s" repeatCount="indefinite"/>
+ <!-- <animateTransform attributeName="transform" type="rotate" values="-2.5 325 0;2.5 325 0;-2.5 325 0" dur="5.5s" repeatCount="indefinite"/>
+ -->
+<animateTransform attributeName="transform" type="rotate" 
+                  values="-6 325 0; 6 325 0; -6 325 0" 
+                  keyTimes="0; 0.5; 1"
+                  keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+                  calcMode="spline"
+                  dur="3.8s" 
+                  repeatCount="indefinite"/>
  <path d="M285 0 L305 265 M365 0 L345 265" stroke="#ec4899" stroke-width="34"/>
  <path d="M285 0 L305 265 M365 0 L345 265" stroke="white" stroke-width="2" stroke-dasharray="8 9" opacity=".45"/>
  <text x="325" y="85" text-anchor="middle" transform="rotate(86 325 85)" fill="white" font-family="monospace" font-size="15">BUILD • THINK • SHIP • SCALE • AI</text>
