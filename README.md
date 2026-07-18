@@ -29,8 +29,6 @@
 - **Google Cloud AI** — Vertex AI, Gemini, Cloud Run, BigQuery, Pub/Sub and Firestore.
 - **AI-backed products** — production Python backends and modern web experiences.
 
-<br/>
-
 > 🎯 *Production first. Everything else follows.*
 
 </td>
