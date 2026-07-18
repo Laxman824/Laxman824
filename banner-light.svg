@@ -11,4 +11,9 @@
    <animate attributeName="y" values="-20;1385" dur="4s" repeatCount="indefinite"/>
  </rect>
  <rect x="2" y="2" width="1020" height="1361" rx="27" fill="none" stroke="#8b5cf6" stroke-opacity=".55" stroke-width="3"/>
-</g></svg>
+</g>
+<g pointer-events="none" opacity=".65">
+ <ellipse cx="160" cy="300" rx="170" ry="80" fill="#22d3ee" opacity=".06"/>
+ <ellipse cx="850" cy="950" rx="210" ry="100" fill="#8b5cf6" opacity=".07"/>
+</g>
+</svg>

@@ -39,4 +39,13 @@
  </rect>
 </g>
 <text x="325" y="890" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="15">— building intelligence, one system at a time —</text>
+
+<!-- V2 floating depth cues -->
+<g pointer-events="none">
+ <ellipse cx="325" cy="850" rx="190" ry="24" fill="#000" opacity=".38" filter="url(#softGlow)">
+  <animate attributeName="rx" values="175;200;175" dur="5.5s" repeatCount="indefinite"/>
+ </ellipse>
+ <circle cx="92" cy="500" r="4" fill="#22d3ee"><animate attributeName="cy" values="520;430;520" dur="6s" repeatCount="indefinite"/></circle>
+ <circle cx="565" cy="610" r="3" fill="#ec4899"><animate attributeName="cy" values="630;540;630" dur="7s" repeatCount="indefinite"/></circle>
+</g>
 </svg>
