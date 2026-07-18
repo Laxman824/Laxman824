@@ -6,7 +6,7 @@
 
 <h1 align="center">Building AI systems that survive production.</h1>
 <p align="center">
-<a href="https://laxman824.github.io/projects">Portfolio</a> •
+<a href="https://laxman824.github.io/">Portfolio</a> •
 <a href="https://linkedin.com/in/laxman-k-44913a156/">LinkedIn</a> •
 <a href="mailto:laxmankethavath5@gmaill.com">Email</a>
 </p>
