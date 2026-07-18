@@ -66,11 +66,11 @@ Integrated Dual Degree (B.Tech + M.Tech) — Computer Science & Engineering
 
 <img src="https://streak-stats.demolab.com?user=laxman824&theme=tokyonight&hide_border=true&background=0d1117&ring=67e8f9&fire=f472b6&currStreakLabel=a78bfa" alt="Contribution streak"/>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxman824&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=67e8f9&line=a78bfa&point=f472b6&area=true" alt="Contribution activity graph" width="95%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxman824&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=67e8f9&line=a78bfa&point=f472b6&area=true" alt="Contribution activity graph" width="95%"/>
 
-<br/><br/>
+<br/><br/> -->
 
 ### 🐍 Contribution Flow
 
