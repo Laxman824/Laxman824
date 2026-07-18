@@ -84,11 +84,8 @@ Integrated Dual Degree (B.Tech + M.Tech) — Computer Science & Engineering
 <a href="https://linkedin.com/in/laxman-k-44913a156/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020" alt="LinkedIn"/></a>
 <a href="mailto:laxmankethavath5@gmaill.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
 
-<br/><br/>
+<!-- <img src="https://komarev.com/ghpvc/?username=laxman824&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/> -->
 
-<img src="https://komarev.com/ghpvc/?username=laxman824&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
 
 *⭐ Building AI that ships — not demos.*
 
