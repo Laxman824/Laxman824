@@ -22,12 +22,13 @@
 </td>
 <td width="62%" valign="middle">
 
-### ⚡ What I Build
+### ⚡ Professional Summary
 
-- **Production GenAI & RAG** — Workflow automation and actionables picking,enterprise retrieval, ranking, grounding and document intelligence.
-- **Agentic AI** — multi-agent workflows and orchestration with modern LLM stacks.
-- **Google Cloud AI** — Vertex AI, Gemini, Cloud Run, BigQuery, Pub/Sub and Firestore.
-- **AI-backed products** — production Python backends and modern web experiences.
+I am a **Senior AI Engineer** specializing in **Agentic AI**, **Enterprise GenAI & RAG**, and **Cloud-Native Software Engineering**. With overall industry experience of **2 years+ **, I design and deploy scalable, secure AI workflows that automate complex organizational processes.
+
+- **Education**: Integrated Dual Degree (B.Tech + M.Tech) in Computer Science & Engineering from **IIT Delhi**.
+- **Current Role**: Senior AI Engineer at Computer Age Management Services (CAMS), Chennai.
+- **Focus**: Transitioning static language models into secure, autonomous, and audit-ready operational pipelines.
 
 > 🎯 *Production first. Everything else follows.*
 
@@ -37,15 +38,15 @@
 
 <br/>
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**Indian Institute of Technology (IIT) Delhi**<br/>
-Integrated Dual Degree (B.Tech + M.Tech) — Computer Science & Engineering
+- **AI & Agentic Frameworks:** LangGraph, LangChain, CrewAI, Model Context Protocol (MCP), Vertex AI Agent Builder, Prompt Engineering, Tool-Use / Function Calling.
+- **Large Language Models:** Gemini (2.5 Flash), OpenAI, PyTorch, TensorFlow, Dialogflow CX.
+- **Backend & Languages:** Python (FastAPI, Flask, Pandas, NumPy), Java (Spring Boot), JavaScript (Node.js, React, Express).
+- **Databases & Vector Search:** BigQuery, Vector Search, AlloyDB, Firestore, PostgreSQL, MySQL, MongoDB.
+- **Cloud & DevOps:** Google Cloud Platform (Cloud Run, Pub/Sub, Workload Identity Federation), Docker, Kubernetes, CI/CD, GitLab.
 
-<br/>
-
-<div align="center">
-
+---
 ## 🚀 Selected Work
 
 | Project | Impact |
