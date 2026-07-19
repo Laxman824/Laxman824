@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://laxman824.github.io/">Portfolio</a> •
 <a href="https://linkedin.com/in/laxman-k-44913a156/">LinkedIn</a> •
-<a href="mailto:laxmankethavath5@gmaill.com">Email</a>
+<a href="mailto:laxmankethavath5@gmail.com">Email</a>
 </p>
 
 <br/>
@@ -47,6 +47,13 @@ I am a **Senior AI Engineer** specializing in **Agentic AI**, **Enterprise GenAI
 - **Cloud & DevOps:** Google Cloud Platform (Cloud Run, Pub/Sub, Workload Identity Federation), Docker, Kubernetes, CI/CD, GitLab.
 
 ---
+<br/>
+
+<div align="center">
+  <img src="./ai-core-cinematic.svg?v=5" alt="Cinematic AI systems architecture" width="100%"/>
+</div>
+
+<br/>
 ## 🚀 Selected Work
 
 | Project | Impact |
