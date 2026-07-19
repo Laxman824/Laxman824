@@ -73,7 +73,6 @@ Selected Works
 
 <img src="https://streak-stats.demolab.com?user=laxman824&theme=tokyonight&hide_border=true&background=0d1117&ring=67e8f9&fire=f472b6&currStreakLabel=a78bfa" alt="Contribution streak"/>
 
-<!-- <br/><br/> -->
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxman824&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=67e8f9&line=a78bfa&point=f472b6&area=true" alt="Contribution activity graph" width="95%"/>
 
@@ -83,8 +82,6 @@ Selected Works
 
 <img src="https://raw.githubusercontent.com/laxman824/laxman824/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
-<br/><br/>
-
 ### 📫 Let's Connect
 
 <a href="https://laxman824.github.io/projects"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0b1020" alt="Portfolio"/></a>
@@ -92,7 +89,6 @@ Selected Works
 <a href="mailto:laxmankethavath5@gmaill.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=laxman824&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/> -->
-
 
 *⭐ Building AI that ships — not demos.*
 
