@@ -54,7 +54,8 @@ I am a **Senior AI Engineer** specializing in **Agentic AI**, **Enterprise GenAI
 </div>
 
 <br/>
-## 🚀 Selected Work
+
+Selected Works
 
 | Project | Impact |
 |:---|:---|
