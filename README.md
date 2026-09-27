@@ -6,7 +6,7 @@
 
 <h1 align="center">Building AI systems that survive production.</h1>
 <p align="center">
-<a href="https://laxman824.github.io/">Portfolio</a> •
+<a href="https://laxman824.github.io/?utm_source=github&utm_medium=readme&utm_campaign=profile">Portfolio</a> •
 <a href="https://linkedin.com/in/laxman-k-44913a156/">LinkedIn</a> •
 <a href="mailto:laxmankethavath5@gmail.com">Email</a>
 </p>
@@ -59,10 +59,10 @@ Selected Works
 
 | Project | Impact |
 |:---|:---|
-| [**CamsLens**](https://laxman824.github.io/projects) | Enterprise GenAI platform processing **80K+ documents monthly** with production retrieval and Google Cloud AI. |
-| [**SEBI Debarred PAN Extraction**](https://laxman824.github.io/projects) | Cloud-native regulatory document pipeline for structured PAN extraction. |
-| [**Autonomous Multi-Agent Banking System**](https://laxman824.github.io/projects) | Agent orchestration using modern LLM and multi-agent frameworks. |
-| [**RoomFlow**](https://laxman824.github.io/projects) | AI-enabled workspace and booking workflows. |
+| [**CamsLens**](https://laxman824.github.io/projects?utm_source=github&utm_medium=readme&utm_campaign=profile) | Enterprise GenAI platform processing **80K+ documents monthly** with production retrieval and Google Cloud AI. |
+| [**SEBI Debarred PAN Extraction**](https://laxman824.github.io/projects?utm_source=github&utm_medium=readme&utm_campaign=profile) | Cloud-native regulatory document pipeline for structured PAN extraction. |
+| [**Autonomous Multi-Agent Banking System**](https://laxman824.github.io/projects?utm_source=github&utm_medium=readme&utm_campaign=profile) | Agent orchestration using modern LLM and multi-agent frameworks. |
+| [**RoomFlow**](https://laxman824.github.io/projects?utm_source=github&utm_medium=readme&utm_campaign=profile) | AI-enabled workspace and booking workflows. |
 
 ## 🧰 Stack
 
@@ -84,9 +84,9 @@ Selected Works
 
 ### 📫 Let's Connect
 
-<a href="https://laxman824.github.io/projects"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0b1020" alt="Portfolio"/></a>
+<a href="https://laxman824.github.io/projects?utm_source=github&utm_medium=readme&utm_campaign=profile"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=0b1020" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/laxman-k-44913a156/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020" alt="LinkedIn"/></a>
-<a href="mailto:laxmankethavath5@gmaill.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
+<a href="mailto:laxmankethavath5@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=laxman824&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/> -->
 
